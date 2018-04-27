@@ -131,7 +131,7 @@ function accelerate(n) {
 }
 </script>
 <br>
-<button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
+<button ontouchstart="accelerate(-0.2)" onmousedown="accelerate(-0.2)" ontouchend="accelerate(0.05)"onmouseup="accelerate(0.05)">ACCELERATE</button>
 <p>Use the ACCELERATE button to move up</p>
 <p>How long can you stay alive?</p>
 <p><a href="game.html" class="w3-button w3-black">Restart (when square hits green bar) </a> </p>
