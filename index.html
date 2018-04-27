@@ -16,16 +16,27 @@
 		#two {
 		      font-size : 50px;
 		}
+		
+		button { 
+		        font-size : 50px
+		}
 		</style>
     </head>
 	<body>
 	    <img src="pferrari.jpg" height="100%" width="100%">
 	    <p id="one"> I am Patrick and this is my website </p>
+		<button type="button"
+        onclick="document.getElementById('demo').innerHTML = Date()">
+        Click me to display Date and Time.</button>
+
+        <p id="demo"></p>
+
 	    <p id="two"><a href="family.html" class="w3-button w3-black">Family</a>
 		<br>
 		<p id="two"> <a href="soccer.html" class="w3-button w3-black">Soccer pages</a> </p>
 		<p id="two"><a href="fortnite.html" class="w3-button w3-black">Coming Soon - Fortnite page</a>
 		<p id="two"><a href="game.html" class="w3-button w3-black">New - Game</a></p>
+		
 		</br>
 	</body>
 </html>
