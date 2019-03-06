@@ -1,0 +1,73 @@
+
+.link {
+  color:black;
+}
+
+p3 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+font-size: 50px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight:bold;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+.link1 {
+  color:white;
+}
+
+.fifapage {
+  color:white;
+  text-align:center;
+  background: #1700CE;
+background: -moz-linear-gradient(-45deg, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+background: -webkit-linear-gradient(-45deg, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+background: linear-gradient(135deg, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+}
+
+.homepage {
+  text-align:center;
+  background: #16CE0A;
+background: -moz-linear-gradient(left, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+background: -webkit-linear-gradient(left, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+background: linear-gradient(to right, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+}
+
+p1 {
+color:gold;
+}
+
+.image1 {
+ width:250px;
+ height:250px;
+}
+
+.eight {
+	font-size:70px;
+}
+
+.one {
+		   align:top;
+		   font-size : 60px;
+		   color : white;
+		   background: #16CE0A;
+background: -moz-linear-gradient(top, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+background: -webkit-linear-gradient(top, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+background: linear-gradient(to bottom, #16CE0A 0%, #3DFF5F 50%, #FFFFFF 100%);
+		   border-style : dotted;
+}
+		   
+.two {
+	align:top;
+		   font-size : 60px;
+		   color : white;
+		   background: #1700CE;
+background: -moz-linear-gradient(top, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+background: -webkit-linear-gradient(top, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+background: linear-gradient(to bottom, #1700CE 0%, #5119A4 50%, #C51CB9 100%);
+		   border-style : dotted;
+}
